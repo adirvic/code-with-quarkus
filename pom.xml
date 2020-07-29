@@ -17,6 +17,7 @@
     <quarkus.platform.group-id>io.quarkus</quarkus.platform.group-id>
     <quarkus.platform.version>1.6.1.Final</quarkus.platform.version>
     <surefire-plugin.version>2.22.1</surefire-plugin.version>
+    <maven.home>C:\Muffato\apache-maven-3.6.3</maven.home>
   </properties>
   <dependencyManagement>
     <dependencies>
